@@ -21,6 +21,18 @@
                         "readonly": "False",
                         "style": "",
                         "label": "Text Field",
+                        "id": "field3",
+                        "readonlyLabel": "False",
+                        "storeNumeric": "False"
+                    }
+                },
+                {
+                    "className": "org.joget.apps.form.lib.TextField",
+                    "properties": {
+                        "encryption": "false",
+                        "readonly": "False",
+                        "style": "",
+                        "label": "Text Field",
                         "id": "field2",
                         "readonlyLabel": "False",
                         "storeNumeric": "False"
